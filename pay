@@ -1,23 +1,13 @@
 {
   "addresses": [
-  {
-    "paymentNetwork": "XRPL",
-    "environment": "MAINNET",
-    "addressDetailsType": "CryptoAddressDetails",
-    "addressDetails": {
-      "address": "rBZ5mnP8QfnP3ZBxxA2RvEYnvkSfRcYA3T"
-    }
-  },
-  
     {
-    "paymentNetwork": "XRP",
-    "environment": "MAINNET",
-    "addressDetailsType": "CryptoAddressDetails",
-    "addressDetails": {
-      "address": "rBZ5mnP8QfnP3ZBxxA2RvEYnvkSfRcYA3T"
+      "paymentNetwork": "XRPL",
+      "environment": "MAINNET",
+      "addressDetailsType": "CryptoAddressDetails",
+      "addressDetails": {
+        "address": "rBZ5mnP8QfnP3ZBxxA2RvEYnvkSfRcYA3T"
+      }
     }
-  }
-],
-"payId": "pay$uptacamp.github.io"
-
+  ],
+  "payId": "pay$uptacamp.github.io"
 }
