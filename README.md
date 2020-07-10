@@ -1,1 +1,0 @@
-# uptacamp.github.io
